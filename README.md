@@ -1,8 +1,8 @@
 ## 👋 Olá! Eu sou Arthur.  
 
-- 💻 Hoje trabalho com [front-end]  
-- 📚 Atualmente estudando **[python]**    
-- ⚡ Curiosidade: [Gosto de aprender.]  
+- 💻 Hoje trabalho com front-end.
+- 📚 Atualmente estudando **python**.
+- ⚡ Curiosidade: Gosto de aprender.  
 
 ---
 

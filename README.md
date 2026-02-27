@@ -1,8 +1,7 @@
 ## 👋 Olá! Eu sou Arthur.  
 
 - 💻 Hoje trabalho com front-end.
-- 📚 Atualmente estudando **flutter/dart**.
-- ⚡ Curiosidade: Gosto de aprender.  
+- 📚 Atualmente estudando **Desenvolvimento WEB**.
 
 ---
 

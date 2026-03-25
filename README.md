@@ -47,22 +47,29 @@
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em Desenvolvimento
 
-### 📌 Em desenvolvimento
-
-##### 🚚 Projeto Integrador – Sistema de Delivery (Logdash)
-
-- Desenvolvimento do **frontend web** de um sistema de backoffice para gestão de delivery  
+### 🚚 Projeto Integrador – Sistema de Delivery (Logdash)
+- Desenvolvimento do **frontend web** de sistema de backoffice para gestão de delivery  
 - Interface para controle de pedidos, produtos e operações em tempo real  
-- Integração com API REST e WebSocket  
+- Integração com **API REST e WebSocket**  
 - Utilizando **React + TypeScript**
 
-- 🏋️‍♂️ API REST para **gestão de personal trainers**, com controle de usuários, treinos e dados físicos, utilizando **Spring Boot + PostgreSQL**
-
-- 🎬 Aplicação web estilo **IMDb**, para listagem e avaliação de filmes/séries, desenvolvida com **React**
-  
 ---
+
+### 🏋️‍♂️ API REST – Sistema para Personal Trainers
+- Desenvolvimento de API para **gestão de personal trainers**  
+- Controle de usuários, treinos e dados físicos  
+- Implementação de **CRUD completo e persistência de dados**  
+- Utilizando **Spring Boot + PostgreSQL**
+
+---
+
+### 🎬 Aplicação Web – Estilo IMDb
+- Desenvolvimento de aplicação web para **listagem e avaliação de filmes e séries**  
+- Interface interativa para navegação e visualização de conteúdos  
+- Utilizando **React**
+
 ## 🏆 Certificações & Conquistas
 
 | 🏆 Conquista | 🏫 Organização | 📅 Ano |

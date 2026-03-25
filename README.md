@@ -57,7 +57,7 @@
 
 ---
 
-### 🏋️‍♂️ API REST – Sistema para Personal Trainers
+### 🏋️‍♂️ API REST – Sistema para Personal Trainers (TrainHUB)
 - Desenvolvimento de API para **gestão de personal trainers**  
 - Controle de usuários, treinos e dados físicos  
 - Implementação de **CRUD completo e persistência de dados**  
@@ -65,7 +65,7 @@
 
 ---
 
-### 🎬 Aplicação Web – Estilo IMDb
+### 🎬 Aplicação Web – CineIndex
 - Desenvolvimento de aplicação web para **listagem e avaliação de filmes e séries**  
 - Interface interativa para navegação e visualização de conteúdos  
 - Utilizando **React**

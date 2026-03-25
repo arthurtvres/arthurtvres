@@ -16,7 +16,6 @@
 
 - 📚 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC**
 - 💻 Foco em desenvolvimento **Full Stack**
-- 🏆 **2º lugar em Hackathon (CodeCraft – PUC Goiás)**
 - 🚀 Buscando oportunidade de **estágio em desenvolvimento**
 - ⚡ Interesse em APIs, sistemas web e mobile
 
@@ -61,8 +60,13 @@
 - Aplicativo mobile com **Flutter**
 
 ---
+## 🏆 Certificações & Conquistas
 
-## 📚 Cursos & Certificações
+| 🏆 Conquista | 🏫 Organização | 📅 Ano |
+|---|---|---|
+| 🥈 2º Lugar – CodeCraft: Maratona de Desenvolvimento de Sistemas | PUC Goiás | 2024 |
+
+## 📚 Cursos
 
 | 📜 Curso | 🏫 Plataforma | 📅 Status |
 |---|---|---|

@@ -70,6 +70,8 @@
 - Interface interativa para navegação e visualização de conteúdos  
 - Utilizando **React**
 
+---
+
 ## 🏆 Certificações & Conquistas
 
 | 🏆 Conquista | 🏫 Organização | 📅 Ano |

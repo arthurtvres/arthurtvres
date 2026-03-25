@@ -50,10 +50,11 @@
 ## 🚀 Projetos
 
 ### 📌 Em desenvolvimento
-- API REST com **Spring Boot + PostgreSQL**
-- Aplicação web com **React**
-- Aplicativo mobile com **Flutter**
 
+- 🏋️‍♂️ API REST para **gestão de personal trainers**, com controle de usuários, treinos e dados físicos, utilizando **Spring Boot + PostgreSQL**
+
+- 🎬 Aplicação web estilo **IMDb**, para listagem e avaliação de filmes/séries, desenvolvida com **React**
+  
 ---
 ## 🏆 Certificações & Conquistas
 

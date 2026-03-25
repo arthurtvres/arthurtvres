@@ -45,13 +45,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-- 🥈 **2º Lugar – CodeCraft: Maratona de Desenvolvimento de Sistemas (PUC Goiás – 2024)**  
-  Desenvolvimento de uma aplicação web voltada à otimização da coleta de lixo em Goiânia, com foco em soluções inteligentes para gestão urbana.
-
----
-
 ## 🚀 Projetos
 
 ### 📌 Em desenvolvimento
@@ -65,6 +58,8 @@
 | 🏆 Conquista | 🏫 Organização | 📅 Ano |
 |---|---|---|
 | 🥈 2º Lugar – CodeCraft: Maratona de Desenvolvimento de Sistemas | PUC Goiás | 2024 |
+
+ Desenvolvimento de uma aplicação web voltada à otimização da coleta de lixo em Goiânia, com foco em soluções inteligentes para gestão urbana.
 
 ## 📚 Cursos
 

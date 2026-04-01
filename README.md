@@ -107,7 +107,4 @@ Busco uma oportunidade de estágio na área de desenvolvimento, com o objetivo d
 ---
 
 <div align="center">
-
-*"Evoluindo um commit por vez."* 🚀
-
 </div>

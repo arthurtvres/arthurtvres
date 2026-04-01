@@ -65,8 +65,8 @@
 
 ---
 
-### 🎬 Aplicação Web – CineIndex
-- Desenvolvimento de aplicação web para **listagem e avaliação de filmes e séries**  
+### 🎬 Aplicação Web – Game Index
+- Desenvolvimento de aplicação web para **listagem e avaliação de jogos**  
 - Interface interativa para navegação e visualização de conteúdos  
 - Utilizando **React**
 

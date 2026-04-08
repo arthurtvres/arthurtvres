@@ -65,8 +65,8 @@
 
 ---
 
-### 🎬 Aplicação Web – Game Index
-- Desenvolvimento de aplicação web para **listagem e avaliação de jogos**  
+### 🎬 Aplicação Web – PokéMania
+- Desenvolvimento de aplicação web para uma "Pokédex" interativa.
 - Interface interativa para navegação e visualização de conteúdos  
 - Utilizando **React**
 

@@ -66,8 +66,9 @@
 ---
 
 ### 🎬 Aplicação Web – PokéMania
-- Desenvolvimento de aplicação web para uma "Pokédex" interativa.
-- Interface interativa para navegação e visualização de conteúdos  
+- Desenvolvimento de aplicação web para uma **Pokédex interativa**
+- Dashboard com exibição de totais de **Pokémons, favoritos e times**
+- Interface interativa para navegação e visualização de conteúdos
 - Utilizando **React**
 
 ---

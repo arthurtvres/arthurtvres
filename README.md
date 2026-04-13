@@ -68,6 +68,7 @@
 ### 🎮 PokéMania
 - Desenvolvimento de aplicação web para uma **Pokédex interativa**
 - Dashboard com exibição de totais de **Pokémons, favoritos e times**
+- Mini Game interativo no estilo do anime **Who is that Pokémon?**
 - Interface interativa para navegação e visualização de conteúdos
 - Utilizando **React**
 
@@ -94,8 +95,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurtvres&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtvres&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arthurtvres&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtvres&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=arthurtvres&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurtvres&theme=tokyo-night&hide_border=true"/>
 
 </div>
 

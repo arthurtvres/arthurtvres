@@ -100,7 +100,9 @@
 
 <img height="170em" src="https://streak-stats.demolab.com?user=arthurtvres&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurtvres&theme=tokyo-night&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtvres&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurtvres&theme=tokyonight"/>
 
 </div>
 

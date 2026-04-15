@@ -57,7 +57,7 @@
 
 ---
 
-### 🏋️‍♂️ API REST – Sistema para Personal Trainers (TrainHUB)
+### 🏋️‍♂️COREXA FITNESS - API REST 
 - Desenvolvimento de API para **gestão de personal trainers**  
 - Controle de usuários, treinos e dados físicos  
 - Implementação de **CRUD completo e persistência de dados**  

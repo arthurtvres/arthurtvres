@@ -67,15 +67,6 @@
 
 ---
 
-### 🎮 PokéMania
-- Desenvolvimento de aplicação web para uma **Pokédex interativa**
-- Dashboard com exibição de totais de **Pokémons, favoritos e times**
-- Mini Game interativo no estilo do anime **Who is that Pokémon?**
-- Interface interativa para navegação e visualização de conteúdos
-- Utilizando **React**
-
----
-
 ## 🏆 Certificações & Conquistas
 
 | 🏆 Conquista | 🏫 Organização | 📅 Ano |

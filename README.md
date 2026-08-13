@@ -14,11 +14,12 @@
 
 ## 🎓 Sobre Mim
 
-- 📚 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC**
-- 💻 Foco em desenvolvimento **Full Stack**
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela **PUC Goiás** — 6º e último período
+- - 💻 Desenvolvedor com foco em aplicações **Full Stack**
+- 🛠️ Atualmente desenvolvendo o **FitzPRO** e o **Catálogo Auto & Auto**
+- ⚡ Interesse em APIs REST, sistemas web, arquitetura de software e experiência do usuário
 - 🚀 Buscando oportunidade de **estágio em desenvolvimento**
-- ⚡ Interesse em APIs, sistemas web e mobile
-
+  
 ---
 
 ## 🛠️ Tecnologias
@@ -48,25 +49,37 @@
 </div>
 
 ---
-
 ## 🚀 Projetos em Desenvolvimento
 
-### 🚚 Projeto Integrador – Sistema de Delivery (Logdash)
-- Desenvolvimento do **frontend web** de sistema de backoffice para gestão de delivery  
-- Interface para controle de pedidos, produtos e operações em tempo real  
-- Integração com **API REST e WebSocket**  
-- Utilizando **React + TypeScript**
+### 🏋️ FitzPRO — Plataforma para Personal Trainers
 
----
+Plataforma web para **gestão de personal trainers e seus alunos**, centralizando treinos, dietas, acompanhamento e evolução em um único sistema.
 
-### 🏋️‍♂️COREXA FITNESS - API REST 
-- Desenvolvimento de API para **gestão de personal trainers**  
-- Controle de usuários, treinos e dados físicos  
-- Implementação de **CRUD completo e persistência de dados**  
-- Utilizando **Spring Boot + PostgreSQL**
+- 👥 Gestão de alunos e perfis
+- 🏋️ Criação, prescrição e execução de treinos
+- 🥗 Criação e acompanhamento de dietas
+- 📊 Acompanhamento de evolução, cargas, volume e desempenho
+- 📅 Agenda e organização de atendimentos
+- 🔐 Autenticação, recuperação de senha e convite de alunos
+- 📄 Termos de uso, controle de versões e consentimento
+- 🛡️ Tratamento e proteção de dados pessoais
+- ⚙️ API REST integrada ao frontend
 
----
+**Tecnologias:** React · Python · FastAPI · PostgreSQL
 
+
+### 🚗 Catálogo Auto & Auto
+
+Catálogo digital desenvolvido para a **Auto & Auto Distribuidora de Autopeças**, facilitando a consulta e apresentação dos produtos comercializados pela empresa.
+
+- 🔎 Busca e consulta de produtos
+- 🧩 Organização por categorias e aplicações
+- 📦 Visualização de informações das peças
+- 📱 Interface responsiva para desktop e dispositivos móveis
+- 🎨 Foco em navegação simples e rápida
+- ⚙️ Estrutura preparada para expansão do catálogo
+
+**Tecnologias:** React · JavaScript
 ## 🏆 Certificações & Conquistas
 
 | 🏆 Conquista | 🏫 Organização | 📅 Ano |

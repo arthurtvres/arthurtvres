@@ -15,7 +15,7 @@
 ## 🎓 Sobre Mim
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela **PUC Goiás** — 6º e último período
-- - 💻 Desenvolvedor com foco em aplicações **Full Stack**
+- 💻 Desenvolvedor com foco em aplicações **Full Stack**
 - 🛠️ Atualmente desenvolvendo o **FitzPRO** e o **Catálogo Auto & Auto**
 - ⚡ Interesse em APIs REST, sistemas web, arquitetura de software e experiência do usuário
 - 🚀 Buscando oportunidade de **estágio em desenvolvimento**

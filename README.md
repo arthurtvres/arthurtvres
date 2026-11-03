@@ -2,7 +2,7 @@
 
 # Olá, eu sou Arthur Tavares 👋
 
-**Estudante de ADS (PUC Goiás, último período) · Desenvolvedor Full Stack · Buscando estágio**
+**Estudante de ADS (PUC Goiás, último período) · Desenvolvedor Full Stack**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurtvres)
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arthurzimtavares1512@outlook.com)

@@ -30,7 +30,7 @@
 **🏋️ FitzPRO**: plataforma para personal trainers gerenciarem alunos, treinos, dietas e evolução.
 `React · Python · FastAPI · PostgreSQL`
 
-**🛒 Balcão.ia  **: agente de IA desenvolvido para televendas(whatsapp) com checkout.
+**🛒 Balcão.ia**: agente de IA desenvolvido para televendas(whatsapp) com checkout.
 `React · JavaScript · Python FAST API ·  Postgres`
 
 ## 🏆 Conquistas
